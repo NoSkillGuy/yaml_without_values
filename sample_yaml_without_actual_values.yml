@@ -1,0 +1,10 @@
+---
+test:
+  adapter: 
+  encoding: 
+  database: 
+  username: 
+  password: 
+  host: 
+  pool: 
+  timeout: 

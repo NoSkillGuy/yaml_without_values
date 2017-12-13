@@ -1,0 +1,9 @@
+test:
+  adapter: database_name
+  encoding: utf8
+  database: application_database
+  username: database_user_name
+  password: database_password
+  host: database_host-url
+  pool: 5
+  timeout: 5000
